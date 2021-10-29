@@ -1,0 +1,17 @@
+[package]
+name = "ngfe-traymon"
+homepage = "https://github.com/pR0Ps/ngfe-traymon"
+version = "0.0.0"
+license = "GPLv3"
+keywords = ["nvidia", "gamestream", "geforce experience", "streaming", "tray", "monitor"]
+edition = "2018"
+
+[dependencies]
+const_format = "^0.2.4"
+native-windows-gui = "^1.0.11"
+native-windows-derive = "^1.0.3"
+sysinfo = "^0.20.5"
+webbrowser = "^0.5.5"
+
+[build-dependencies]
+winres = "^0.1.12"
