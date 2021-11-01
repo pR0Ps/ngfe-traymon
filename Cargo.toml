@@ -1,7 +1,7 @@
 [package]
 name = "ngfe-traymon"
 homepage = "https://github.com/pR0Ps/ngfe-traymon"
-version = "0.0.0"
+version = "1.0.0"
 license = "GPLv3"
 keywords = ["nvidia", "gamestream", "geforce experience", "streaming", "tray", "monitor"]
 edition = "2018"
